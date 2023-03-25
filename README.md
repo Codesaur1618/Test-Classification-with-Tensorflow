@@ -1,6 +1,7 @@
 # Test-Classification-with-Tensorflow
 requirements:
 ->tensorflow
-->tensorflow-hub
-->tensorflow-datasets
-->numpy
+ ->tensorflow-hub
+  ->tensorflow-datasets
+   ->numpy
+    ->jupyter notebook
